@@ -16,7 +16,7 @@ O principal desafio desse livro vai ser te mostrar o potencial das RNAs através
 1. [**O que são as Redes Neurais Artificiais?**](#markdown-pane)
 2. [**Preparando o ambiente para rodar sua primeira RNA**](#markdown-pane)
 3. [**[Mão na massa] Criando e treinando a primeira RNA**](#markdown-pane)
-4. [**Pontos importantes para estruturar uma RNA**](#markdown-pane) 
+4. [**Pontos importantes para otimizar uma RNA**](#markdown-pane) 
 5. [**[Mão na massa]  Rodando a RNA XPTO**](#markdown-pane)
 6. Nos [**divulgue**](#markdown-pane) se esse livro te ajudou! <3
 7. Autora: Lorena Cristina de Souza
