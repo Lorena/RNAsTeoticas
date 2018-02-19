@@ -1,4 +1,4 @@
-# RNAs primeiros passos
+# RNAs primeiros passos em Python
 
 Olá! Seja bem vinda ao primeiro livro virtual colaborativo de Redes Neurais Artificiais.
 
